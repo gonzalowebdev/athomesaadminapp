@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">AtHome Admin Panel</string>
+    <string name="title_activity_main">AtHome Admin Panel</string>
+    <string name="package_name">com.athome.admin.panel</string>
+    <string name="custom_url_scheme">com.athome.admin.panel</string>
+</resources>
